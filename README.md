@@ -1,11 +1,16 @@
 # Základy strojového učení
 
-
 ## Příprava prostředí
 
 * Můžete pracovat přes colab.google.com
 * Na školních počítačích pomocí jupyter lab
 * Na svých počítačích např. s VS Code
+
+## Cvičení v Google Colab
+
+| Název cvičení | Odkaz na Google Colab |
+|---------------|-----------------------|
+| Cvičení 1 - Úvod do práce s knihovnami jupyter, pandas, grafové knihovny | [Otevřít v Colabu](https://colab.research.google.com/github/mvasinek/VSB-ZSU/blob/main/cviceni/fml_01_student_en_active_learning.ipynb) |
 
 ### Aktivace `venv`
 
