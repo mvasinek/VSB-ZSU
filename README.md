@@ -3,8 +3,7 @@
 ## Příprava prostředí
 
 * Můžete pracovat přes colab.google.com
-* Na školních počítačích pomocí jupyter lab
-* Na svých počítačích např. s VS Code
+* Na svých a školních počítačích např. s VS Code
 
 ## Cvičení v Google Colab
 
