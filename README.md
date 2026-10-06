@@ -12,6 +12,7 @@
 | Cvičení 1 - Úvod do práce s knihovnami jupyter, pandas, grafové knihovny | [Otevřít v Colabu](https://colab.research.google.com/github/mvasinek/VSB-ZSU/blob/main/cviceni/fml_01_student_en_active_learning.ipynb) |
 | Cvičení 2 - Typy proměnných, chybějící hodnoty, odlehlád pozorování, korelace | [Otevřít v Colabu](https://colab.research.google.com/github/mvasinek/VSB-ZSU/blob/main/cviceni/fml_02_student_en_active_learning.ipynb) |
 | Cvičení 3 - K-Means | [Otevřít v Colabu](https://colab.research.google.com/github/mvasinek/VSB-ZSU/blob/main/cviceni/fml_03_student_en_active_learning.ipynb) |
+| Cvičení 4 - Hierarchické Shlukování, DBSCAN | [Otevřít v Colabu](https://colab.research.google.com/github/mvasinek/VSB-ZSU/blob/main/cviceni/fml_04_student_en_active_learning.ipynb) |
 
 ### Aktivace `venv`
 
