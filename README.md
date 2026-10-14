@@ -13,7 +13,7 @@
 | Cvičení 2 - Typy proměnných, chybějící hodnoty, odlehlád pozorování, korelace | [Otevřít v Colabu](https://colab.research.google.com/github/mvasinek/VSB-ZSU/blob/main/cviceni/fml_02_student_en_active_learning.ipynb) |
 | Cvičení 3 - K-Means | [Otevřít v Colabu](https://colab.research.google.com/github/mvasinek/VSB-ZSU/blob/main/cviceni/fml_03_student_en_active_learning.ipynb) |
 | Cvičení 4 - Hierarchické Shlukování, DBSCAN | [Otevřít v Colabu](https://colab.research.google.com/github/mvasinek/VSB-ZSU/blob/main/cviceni/fml_04_student_en_active_learning.ipynb) |
-| Cvičení 4 - Lineární a logistická regrese, gradient descent | [Otevřít v Colabu](https://colab.research.google.com/github/mvasinek/VSB-ZSU/blob/main/cviceni/fml_05_student_en_active_learning.ipynb) |
+| Cvičení 5 - Lineární a logistická regrese, gradient descent | [Otevřít v Colabu](https://colab.research.google.com/github/mvasinek/VSB-ZSU/blob/main/cviceni/fml_05_student_en_active_learning.ipynb) |
 
 ### Aktivace `venv`
 
