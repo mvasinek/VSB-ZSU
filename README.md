@@ -14,6 +14,7 @@
 | Cvičení 3 - K-Means | [Otevřít v Colabu](https://colab.research.google.com/github/mvasinek/VSB-ZSU/blob/main/cviceni/fml_03_student_en_active_learning.ipynb) |
 | Cvičení 4 - Hierarchické Shlukování, DBSCAN | [Otevřít v Colabu](https://colab.research.google.com/github/mvasinek/VSB-ZSU/blob/main/cviceni/fml_04_student_en_active_learning.ipynb) |
 | Cvičení 5 - Lineární a logistická regrese, gradient descent | [Otevřít v Colabu](https://colab.research.google.com/github/mvasinek/VSB-ZSU/blob/main/cviceni/fml_05_student_en_active_learning.ipynb) |
+| Cvičení 6 - Decision Tree a Random Forest | [Otevřít v Colabu](https://colab.research.google.com/github/mvasinek/VSB-ZSU/blob/main/cviceni/fml_06_student_en_active_learning.ipynb) |
 
 ### Aktivace `venv`
 
