@@ -16,6 +16,7 @@
 | Cvičení 5 - Lineární a logistická regrese, gradient descent | [Otevřít v Colabu](https://colab.research.google.com/github/mvasinek/VSB-ZSU/blob/main/cviceni/fml_05_student_en_active_learning.ipynb) |
 | Cvičení 6 - Decision Tree a Random Forest | [Otevřít v Colabu](https://colab.research.google.com/github/mvasinek/VSB-ZSU/blob/main/cviceni/fml_06_student_en_active_learning.ipynb) |
 | Cvičení 7 - Gradient Boosting | [Otevřít v Colabu](https://colab.research.google.com/github/mvasinek/VSB-ZSU/blob/main/cviceni/fml_07_student_en_active_learning.ipynb) |
+| Cvičení 8 - Redukce Dimenze | [Otevřít v Colabu](https://colab.research.google.com/github/mvasinek/VSB-ZSU/blob/main/cviceni/fml_08_student_en_active_learning.ipynb) |
 
 
 ### Aktivace `venv`
